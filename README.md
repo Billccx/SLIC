@@ -7,5 +7,5 @@ R. Achanta, A. Shaji, K. Smith, A. Lucchi, P. Fua and S. Süsstrunk, "SLIC Super
 
 
 # 效果展示
-<img src="Figures/SuperPixels.jpg" width="200" alt="抖音小程序"/><br/>
-![](Figures/SuperPixels.jpg)
+<img src="Figures/SuperPixels.jpg" width="600" alt="抖音小程序"/><br/>
+
